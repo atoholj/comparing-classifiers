@@ -62,4 +62,14 @@ A detailed comparison of all models is included in the Jupyter Notebook. Key ins
 - Recommendations for next steps such as tuning, feature engineering, or ensemble methods  
 
 ##  Repository Structure
-
+```text
+comparing-classifiers/
+│
+├── comparing_classifiers.ipynb      # Main assignment notebook
+├── README.md                        # Project overview
+│
+└── data/
+    └── bank-additional/
+        ├── bank-additional-full.csv
+        ├── bank-additional.csv
+        └── bank-additional-names.txt
